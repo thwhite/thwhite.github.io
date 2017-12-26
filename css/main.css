@@ -1837,7 +1837,7 @@ header .logo a {
 	-ms-transition: all 0.5s ease-in-out;
 	transition: all 0.5s ease-in-out;
 	position: relative;
-	left: -100%;
+	left: -50%;
 }
 
 #portfolio .folio-title {
@@ -1893,7 +1893,7 @@ header .logo a {
  * ------------------------------------------------------------------
  */
 .popup-modal {
-	max-width: 1350px;
+	max-width: 850px;
 	background: #FFFFFF;
 	position: relative;
 	margin: 0 auto;
